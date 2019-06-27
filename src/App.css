@@ -1,0 +1,10 @@
+/*@import url('https://fonts.googleapis.com/css?family=Yantramanav');	*/
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
+body {
+	font-family: 'Inconsolata', monospace;	 
+}
+
+.App {
+	text-align: center;
+}
